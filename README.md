@@ -7,3 +7,6 @@ For using it, you will need to write your login info, in the variables declarati
 After that, you will only need to run the script in order to automatically renew your books.
 
 Note: The Script doesn't work when you have expired books, as the login page is different when this condition occurs.
+
+Andreé Toledo
+contact@andreetoledo.me
